@@ -1,2 +1,2 @@
 # dame
-The main controller behind dame services
+The main interface for dame services
